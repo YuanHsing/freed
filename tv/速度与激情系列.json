@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "name": "速度与激情1",
+      "url": "https://api.subaibai.com/m3/国外电影/速度与激情1.m3u8",
+      "pic": "https://liaoyantai.cn/wp-content/uploads/2020/01/57500cbf1c63adc0baa2741005b2e998-270x380.jpg",
+      "parse": false
+    },
+    {
+      "name": "速度与激情2",
+      "url": "https://api.subaibai.com/m3/国外电影/速度与激情2.m3u8",
+      "pic": "https://liaoyantai.cn/wp-content/uploads/2020/01/e6b1279533eba561832ee9a0edb48bf3-270x380.jpg",
+      "parse": false
+    },
+    {
+      "name": "速度与激情3",
+      "url": "https://api.subaibai.com/m3/国外电影/速度与激情3.m3u8",
+      "pic": "https://liaoyantai.cn/wp-content/uploads/2020/01/4558aca1efc877046a95b9acd86cd6b0-270x380.jpg",
+      "parse": false
+    },
+    {
+      "name": "速度与激情4",
+      "url": "https://api.subaibai.com/m3/国外电影/速度与激情4.m3u8",
+      "pic": "https://liaoyantai.cn/wp-content/uploads/2020/01/86ae8e4f3d6234ebc3d1a29cb4bfb2a1-270x380.jpg",
+      "parse": false
+    },
+    {
+      "name": "速度与激情5",
+      "url": "https://api.subaibai.com/m3/国外电影/速度与激情.m3u8",
+      "pic": "https://liaoyantai.cn/wp-content/uploads/2020/01/60ca8723023546bb6708e8611db0fff2-270x380.jpg",
+      "parse": false
+    },
+    {
+      "name": "速度与激情6",
+      "url": "https://api.subaibai.com/m3/国外电影/速度与激情6.m3u8",
+      "pic": "https://liaoyantai.cn/wp-content/uploads/2020/01/4de44b151d14eb71adbca556b9388ff4-270x380.jpg",
+      "parse": false
+    },
+    {
+      "name": "速度与激情7",
+      "url": "https://api.subaibai.com/m3/国外电影/速度与激情7.m3u8",
+      "pic": "https://liaoyantai.cn/wp-content/uploads/2019/07/830bf85fe925564115a59418a783a6ef-270x380.jpg",
+      "parse": false
+    },
+    {
+      "name": "速度与激情8",
+      "url": "https://api.subaibai.com/m3/国外电影/速度与激情8.m3u8",
+      "pic": "https://liaoyantai.cn/wp-content/uploads/2020/01/5c51d5f26a71ac9230a342e4aa6a423a-270x380.jpg",
+      "parse": false
+    },
+    {
+      "name": "速度与激情特别行动",
+      "url": "https://api.subaibai.com/m3/国外电影/速度与激情特别行动.m3u8",
+      "pic": "https://liaoyantai.cn/wp-content/uploads/2021/04/6e976b3e6b6326526aeaffd3f9e9eaec-270x380.jpg",
+      "parse": false
+    }
+  ]
+}

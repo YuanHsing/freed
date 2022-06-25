@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "name": "热血动漫",
+      "url": "https://www.douyu.com/7528160",
+      "parse": true
+    },
+
+    {
+      "name": "海绵与大星",
+      "url": "https://www.douyu.com/426517",
+      "parse": true
+    },
+
+    {
+      "name": "经典 童年",
+      "url": "https://www.douyu.com/235716",
+      "parse": true
+    },
+
+    {
+      "name": "圣斗士",
+      "url": "https://www.douyu.com/3949681",
+      "parse": true
+    },
+
+    {
+      "name": "动漫剧场版",
+      "url": "https://www.douyu.com/8458270",
+      "parse": true
+    },
+
+    {
+      "name": "经典动漫轮播",
+      "url": "https://www.douyu.com/2317390",
+      "parse": true
+    },
+
+    {
+      "name": "经典欧美动画",
+      "url": "https://www.douyu.com/4540290",
+      "parse": true
+    }
+
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": 10,
+      "name": "关注公众号",
+      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN0138COxa2C4PLuRRahZ_!!913168420.png",
+      "url": "http://m.iqiyi.com/&&&ad-banner",
+      "type": "app://x5WebParse",
+      "types": "app://x5WebParse"
+    },
+    {
+      "id": 20,
+      "name": "腾讯视频",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01aFgIUa2C4PLu3OWYQ_!!913168420.jpg",
+      "url": "https://film.qq.com/weixin/all.html&&&ad-banner",
+      "type": "app://x5WebParse",
+      "types": "app://x5WebParse"
+    },
+    {
+      "id": 30,
+      "name": "FreeD影院",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN018xEIKU2C4PLtpi5MS_!!913168420.png",
+      "url": "http://m.youku.com/&&&ad-banner",
+      "type": "app://x5WebParse",
+      "types": "app://x5WebParse"
+    },
+    {
+      "id": 40,
+      "name": "搜狐影视",
+      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01g0u0Ms2C4PM4f7W8B_!!913168420.png",
+      "url": "https://m.tv.sohu.com/&&&ad-banner",
+      "type": "app://x5WebParse",
+      "types": "app://x5WebParse"
+    },
+    {
+      "id": 50,
+      "name": "查看如何",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01TByzHO2C4PLtAPI7V_!!913168420.jpg",
+      "url": "https://www.mgtv.com/&&&ad-banner",
+      "type": "app://x5WebParse",
+      "types": "app://x5WebParse"
+    },
+    {
+      "id": 60,
+      "name": "哔哩哔哩",
+      "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN018TF1Ab2C4PRoKzdQv_!!913168420.png",
+      "url": "https://www.bilibili.com/&&&ad-banner",
+      "type": "app://x5WebParse",
+      "types": "app://x5WebParse"
+    },
+    {
+      "id": 70,
+      "name": "自定义",
+      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01ErAlpR2C4PRpQxOh3_!!913168420.png",
+      "url": "http://www.pptv.com/&&&ad-banner",
+      "type": "app://x5WebParse",
+      "types": "app://x5WebParse"
+    },
+    {
+      "id": 80,
+      "name": "咪咕影视",
+      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01DbyFCn2C4PRmlwMxI_!!913168420.png",
+      "url": "http://www.migu.cn/&&&ad-banner",
+      "type": "app://x5WebParse",
+      "types": "app://x5WebParse"
+    },
+    {
+      "id": 90,
+      "name": "数据源",
+      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01ggn4Uy2C4PRpQwG0r_!!913168420.png",
+      "url": "https://vip.1905.com/&&&ad-banner",
+      "type": "app://x5WebParse",
+      "types": "app://x5WebParse"
+    },
+    {
+      "id": 100,
+      "name": "360kan",
+      "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01Rc0SNv2C4PRlDkP4m_!!913168420.png",
+      "url": "https://www.360kan.com/&&&ad-banner",
+      "type": "app://x5WebParse",
+      "types": "app://x5WebParse"
+    }
+  ]
+}

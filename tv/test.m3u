@@ -1,0 +1,37 @@
+#EXTM3U url-tvg="http://tv.sason.xyz/epg"
+#EXTINF:-1 tvg-id="6073" tvg-logo="http://tv.sason.xyz/logo/tvbsxw.png" group-title="E.台湾",TVBS新闻 FHD ★
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6075" tvg-logo="http://tv.sason.xyz/logo/dscjxw.png" group-title="E.台湾",东森财经新闻 FHD ★
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6069" tvg-logo="http://tv.sason.xyz/logo/dsxw.png" group-title="E.台湾",东森新闻 FHD ★
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/hsxw.png" group-title="E.台湾",华视新闻 FHD ★
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6071" tvg-logo="http://tv.sason.xyz/logo/msxw.png" group-title="E.台湾",民视新闻 FHD ★
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6072" tvg-logo="http://tv.sason.xyz/logo/slxw.png" group-title="E.台湾",三立iNews FHD ★
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="E.台湾",三立Live FHD ★
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 tvg-id="6143" tvg-logo="http://tv.sason.xyz/logo/tsxw.png" group-title="E.台湾",台视新闻 FHD ★
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="7176" tvg-logo="http://tv.sason.xyz/logo/zsxw.png" group-title="E.台湾",中视新闻 FHD ★
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6070" tvg-logo="http://tv.sason.xyz/logo/ztxw.png" group-title="E.台湾",中天新闻 FHD ★
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6067" tvg-logo="http://tv.sason.xyz/logo/yxw.png" group-title="E.台湾",壹新闻 FHD ★
+http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
+#EXTINF:-1 tvg-id="7135" tvg-logo="http://tv.sason.xyz/logo/ms.png" group-title="E.台湾",民视 ★
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-id="7133" tvg-logo="http://tv.sason.xyz/logo/msdyt.png" group-title="E.台湾",民视第一 ★
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-id="7134" tvg-logo="http://tv.sason.xyz/logo/mstwt.png" group-title="E.台湾",民视台湾 ★
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/msyj.png" group-title="E.台湾",民视影剧 ★
+http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1 tvg-id="7145" tvg-logo="http://tv.sason.xyz/logo/mszy.png" group-title="E.台湾",民视综艺 ★
+http://seb.sason.top/ptv/ftv.php?id=zy
+#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/msly.png" group-title="E.台湾",民视旅游 ★
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1 tvg-id="7197" tvg-logo="http://tv.sason.xyz/logo/wljc.png" group-title="E.台湾",纬来精采 ★
+https://usb.bozztv.com/ttvbHD/index.m3u8

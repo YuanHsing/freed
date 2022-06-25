@@ -1,0 +1,828 @@
+{
+  "data": [
+    {
+      "name": "热门电影",
+      "listData": [
+        {
+          "id": 100,
+          "pid": 1,
+          "cid": 122402,
+          "name": "电影直播厅1",
+          "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4188.jpg",
+          "url": "http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid="
+        },
+        {
+          "id": 101,
+          "pid": 1,
+          "cid": 3637778,
+          "name": "电影直播厅2",
+          "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4189.jpg",
+          "url": "http://tx2play1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid="
+        },
+        {
+          "id": 102,
+          "pid": 1,
+          "cid": 85894,
+          "name": "电影直播厅3",
+          "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p4196.jpg",
+          "url": "http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv?uuid="
+        },
+        {
+          "id": 103,
+          "pid": 1,
+          "cid": 1504768,
+          "name": "电影直播厅4",
+          "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4213.jpg",
+          "url": "http://tx2play1.douyucdn.cn/live/1504768rgidcFEaq.flv?uuid="
+        },
+        {
+          "id": 105,
+          "pid": 1,
+          "cid": 252802,
+          "name": "电影直播厅5",
+          "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4210.jpg",
+          "url": "http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.flv?uuid="
+        },
+        {
+          "id": 106,
+          "pid": 1,
+          "cid": 3637765,
+          "name": "电影直播厅6",
+          "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4190.jpg",
+          "url": "http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid="
+        },
+        {
+          "id": 107,
+          "pid": 1,
+          "cid": 7077241,
+          "name": "电影直播厅7",
+          "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+          "url": "http://tx2play1.douyucdn.cn/live/7077241rjJnPBfQS.flv?uuid="
+        },
+        {
+          "id": 108,
+          "pid": 1,
+          "cid": 218859,
+          "name": "电影直播厅8",
+          "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4197.jpg",
+          "url": "http://tx2play1.douyucdn.cn/live/218859rhVaTIAcuG.flv?uuid="
+        },
+        {
+          "id": 109,
+          "pid": 1,
+          "cid": 20415,
+          "name": "电影直播厅9",
+          "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4192.jpg",
+          "url": "http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid="
+        },
+        {
+          "id": 110,
+          "pid": 1,
+          "cid": 52787,
+          "name": "电影直播厅10",
+          "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4193.jpg",
+          "url": "http://tx2play1.douyucdn.cn/live/52787rNtGBH5eKTB.flv?uuid="
+        }
+      ]
+    },
+    {
+      "name": "央视频道",
+      "listData": [
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-1综合",
+          "num": "00001",
+          "pic": "",
+          "url": "http://39.134.66.66/PLTV/88888888/224/3221225601/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-1综合",
+          "num": "00002",
+          "pic": "",
+          "url": "http://120.221.5.113:8089/PLTV/88888888/224/3221225859/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-1综合",
+          "num": "00003",
+          "pic": "",
+          "url": "http://112.17.40.140/PLTV/88888888/224/3221226541/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-1综合",
+          "num": "00004",
+          "pic": "",
+          "url": "http://121.31.30.87:8085/ysten-business/live/cctv-1/1.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-1综合",
+          "num": "00005",
+          "pic": "",
+          "url": "http://scgctvshow.sctv.com/hdlive/cctv1/1.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-1综合",
+          "num": "00006",
+          "pic": "",
+          "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-2财经",
+          "num": "00007",
+          "pic": "",
+          "url": "http://120.221.5.101:8089/PLTV/88888888/224/3221225751/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-2财经",
+          "num": "00008",
+          "pic": "",
+          "url": "http://112.17.40.211/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/index.m3u8?fmt=ts2hls"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-2财经",
+          "num": "00009",
+          "pic": "",
+          "url": "http://120.221.5.107:8089/PLTV/88888888/224/3221225751/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-2财经",
+          "num": "00010",
+          "pic": "",
+          "url": "http://39.134.185.234/PLTV/88888888/224/3221226138/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-3综艺",
+          "num": "00011",
+          "pic": "",
+          "url": "http://39.134.66.66/PLTV/88888888/224/3221225490/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-3综艺",
+          "num": "00012",
+          "pic": "",
+          "url": "http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-3综艺",
+          "num": "00013",
+          "pic": "",
+          "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-3综艺",
+          "num": "00014",
+          "pic": "",
+          "url": "http://112.17.40.140/PLTV/88888888/224/3221226485/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-3综艺",
+          "num": "00015",
+          "pic": "",
+          "url": "http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-3综艺",
+          "num": "00016",
+          "pic": "",
+          "url": "http://121.31.30.87:8085/ysten-business/live/cctv-3/1.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-4国际",
+          "num": "00017",
+          "pic": "",
+          "url": "http://120.221.5.101:8089/PLTV/88888888/224/3221225757/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-4国际",
+          "num": "00018",
+          "pic": "",
+          "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-5体育",
+          "num": "00019",
+          "pic": "",
+          "url": "http://39.134.66.66/PLTV/88888888/224/3221225606/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-5体育",
+          "num": "00020",
+          "pic": "",
+          "url": "http://112.17.40.140/PLTV/88888888/224/3221226562/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-5体育",
+          "num": "00021",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225556/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-5体育",
+          "num": "00022",
+          "pic": "",
+          "url": "http://121.31.30.87:8085/ysten-business/live/cctv-5/1.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-6电影",
+          "num": "00023",
+          "pic": "",
+          "url": "http://39.134.66.66/PLTV/88888888/224/3221225488/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-6电影",
+          "num": "00024",
+          "pic": "",
+          "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-6电影",
+          "num": "00025",
+          "pic": "",
+          "url": "http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-6电影",
+          "num": "00026",
+          "pic": "",
+          "url": "http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-6电影",
+          "num": "00027",
+          "pic": "",
+          "url": "http://121.31.30.91:8085/ysten-business/live/cctv-6/1.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-7军事",
+          "num": "00028",
+          "pic": "",
+          "url": "http://120.221.5.113:8089/PLTV/88888888/224/3221225753/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-7军事",
+          "num": "00029",
+          "pic": "",
+          "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-8电视",
+          "num": "00030",
+          "pic": "",
+          "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-8电视",
+          "num": "00031",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225562/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-8电视",
+          "num": "00032",
+          "pic": "",
+          "url": "http://121.31.30.91:8085/ysten-business/live/cctv-8/1.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-8电视",
+          "num": "00033",
+          "pic": "",
+          "url": "http://39.134.176.148/PLTV/88888888/224/3221226330/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-9纪录",
+          "num": "00034",
+          "pic": "",
+          "url": "http://120.221.5.113:8089/PLTV/88888888/224/3221225759/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-9纪录",
+          "num": "00035",
+          "pic": "",
+          "url": "http://39.135.135.30/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-9纪录",
+          "num": "00036",
+          "pic": "",
+          "url": "http://112.17.40.140/PLTV/88888888/224/3221226156/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-9纪录",
+          "num": "00037",
+          "pic": "",
+          "url": "http://121.31.30.87:8085/ysten-business/live/cctv-news/1.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-10科教",
+          "num": "00038",
+          "pic": "",
+          "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-10科教",
+          "num": "00039",
+          "pic": "",
+          "url": "http://112.17.40.140/PLTV/88888888/224/3221226199/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-10科教",
+          "num": "00040",
+          "pic": "",
+          "url": "http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-10科教",
+          "num": "00041",
+          "pic": "",
+          "url": "http://117.156.28.21/PLTV/88888888/224/3221225718/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-11戏曲",
+          "num": "00042",
+          "pic": "",
+          "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-11戏曲",
+          "num": "00043",
+          "pic": "",
+          "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-11戏曲",
+          "num": "00044",
+          "pic": "",
+          "url": "http://117.169.120.160:8080/live/cctv-11/1.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-12社会",
+          "num": "00045",
+          "pic": "",
+          "url": "http://120.221.5.101:8089/PLTV/88888888/224/3221225763/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-12社会",
+          "num": "00046",
+          "pic": "",
+          "url": "http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-13新闻",
+          "num": "00047",
+          "pic": "",
+          "url": "http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-13新闻",
+          "num": "00048",
+          "pic": "",
+          "url": "http://39.135.135.58/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-14少儿",
+          "num": "00049",
+          "pic": "",
+          "url": "http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-14少儿",
+          "num": "00050",
+          "pic": "",
+          "url": "http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-14少儿",
+          "num": "00051",
+          "pic": "",
+          "url": "http://117.169.120.160:8080/live/cctv-14/1.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-15音乐",
+          "num": "00052",
+          "pic": "",
+          "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-15音乐",
+          "num": "00053",
+          "pic": "",
+          "url": "http://117.169.120.160:8080/live/cctv-15/1.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-5⁺体育",
+          "num": "00054",
+          "pic": "",
+          "url": "http://120.221.5.101:8089/PLTV/88888888/224/3221225781/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-17农业",
+          "num": "00055",
+          "pic": "",
+          "url": "http://120.221.5.113:8089/PLTV/88888888/224/3221226093/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-17农业",
+          "num": "00056",
+          "pic": "",
+          "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-17农业",
+          "num": "00057",
+          "pic": "",
+          "url": "http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "CCTV-4K超清",
+          "num": "00058",
+          "pic": "",
+          "url": "http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "卫视频道",
+      "listData": [
+        {
+          "itemid": "uid0000",
+          "name": "湖南卫视",
+          "num": "00001",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225518/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "湖南卫视",
+          "num": "00002",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225516/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "东方卫视",
+          "num": "00003",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225504/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "东方卫视",
+          "num": "00004",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225506/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "浙江卫视",
+          "num": "00005",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225520/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "浙江卫视",
+          "num": "00006",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225522/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "江苏卫视",
+          "num": "00007",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225512/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "江苏卫视",
+          "num": "00008",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225514/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "安徽卫视",
+          "num": "00009",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225548/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "北京卫视",
+          "num": "00010",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225524/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "北京卫视",
+          "num": "00011",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225526/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "深圳卫视",
+          "num": "00012",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225532/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "深圳卫视",
+          "num": "00013",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225534/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "天津卫视",
+          "num": "00014",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225594/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "兵团卫视",
+          "num": "00015",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225634/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "东南卫视",
+          "num": "00016",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225580/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "广东卫视",
+          "num": "00017",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225528/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "广东卫视",
+          "num": "00018",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225530/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "湖北卫视",
+          "num": "00019",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225544/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "湖北卫视",
+          "num": "00020",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225546/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "江西卫视",
+          "num": "00021",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225588/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "辽宁卫视",
+          "num": "00022",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225590/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "山东卫视",
+          "num": "00023",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225540/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "山东卫视",
+          "num": "00024",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225542/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "重庆卫视",
+          "num": "00025",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225576/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "龙江卫视",
+          "num": "00026",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225536/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "龙江卫视",
+          "num": "00027",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225538/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "河南卫视",
+          "num": "00028",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225584/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "甘肃卫视",
+          "num": "00029",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225636/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "广西卫视",
+          "num": "00030",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225598/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "贵州卫视",
+          "num": "00031",
+          "pic": "",
+          "url": "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "河北卫视",
+          "num": "00032",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225624/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "吉林卫视",
+          "num": "00033",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225586/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "山西卫视",
+          "num": "00034",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225646/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "陕西卫视",
+          "num": "00035",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225628/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "厦门卫视",
+          "num": "00036",
+          "pic": "",
+          "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "厦门卫视",
+          "num": "00037",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225640/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "四川卫视",
+          "num": "00038",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225592/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "云南卫视",
+          "num": "00039",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225632/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "海南卫视",
+          "num": "00040",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225620/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "宁夏卫视",
+          "num": "00041",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225638/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "青海卫视",
+          "num": "00042",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225622/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "内蒙卫视",
+          "num": "00043",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225626/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "西藏卫视",
+          "num": "00044",
+          "pic": "",
+          "url": "http://39.134.168.91/PLTV/1/224/3221225648/index.m3u8"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "新疆卫视",
+          "num": "00045",
+          "pic": "",
+          "url": "http://223.110.247.161:6610/gitv/live1/G_XINJIANG/G_XINJIANG"
+        },
+        {
+          "itemid": "uid0000",
+          "name": "新疆卫视",
+          "num": "00046",
+          "pic": "",
+          "url": "http://101.71.255.229:6610/zjhs/2/10050/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+        }
+      ]
+    }
+
+  ]
+}

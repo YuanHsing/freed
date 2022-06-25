@@ -1,0 +1,239 @@
+{
+  "data": [
+    {
+      "title": "热门",
+      "list": [
+        {
+          "name": "美团红包",
+          "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01bXVNGG2C4PZWpj9Jk_!!913168420.png",
+          "url": "",
+          "type": "api://meituanwaimai"
+        },
+        {
+          "name": "饿了么红包",
+          "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN012KNmnX2C4PZT5JXdH_!!913168420.png",
+          "url": "1571715733668",
+          "type": "api://taobaohuodongid"
+        },
+        {
+          "name": "低端影视",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
+          "url": "https://ddrk.me&&&https://ddrk.me/mtp/0712_s.jpg,https://ddrk.me/mtp/0712_h.jpg",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "素白白",
+          "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01178WjU2C4PZONVD2G_!!913168420.png",
+          "url": "https://www.subaibai.com/&&&id=6933",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "奈非高清",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01WAXSiu2C4PZZTmHpN_!!913168420.png",
+          "url": "https://nfxhd.com/&&&ad,https://nfxhd.com/pic/p.gif",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "独播库",
+          "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01TTF6yj2C4PZSVq0eg_!!913168420.png",
+          "url": "http://tv.zdubo.com/&&&adsbygoogle,googleapis,ads,google",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "爱迪",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01VEgwOb2C4PZZTpZsn_!!913168420.png",
+          "url": "https://aidi.tv/&&&adsbygoogle,googleapis,ads,google",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "厂长",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01VlhZFm2C4PZfSpvXp_!!913168420.png",
+          "url": "https://www.qianoo.cn/&&&adsbygoogle,googleapis,ads,google",
+          "type": "app://customWeb"
+        }
+      ]
+    },
+    {
+      "title": "购物",
+      "list": [
+        {
+          "name": "京东",
+          "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081109_786319",
+          "url": "https://coupon.aikanll.com/?tmp=jd_hotitem&code=8uL0kH&f=web&demo_type=15",
+          "type": "app://shopWeb"
+        },
+        {
+          "name": "拼多多",
+          "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081139_686666",
+          "url": "https://coupon.aikanll.com/?tmp=pdd_hotitem&code=4IEcGG&f=web&demo_type=16",
+          "type": "app://shopWeb"
+        },
+        {
+          "name": "唯品会",
+          "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1625453776_572892",
+          "url": "https://coupon.aikanll.com/?tmp=vip_brand&code=2GBPI3&f=web&demo_type=37",
+          "type": "app://shopWeb"
+        },
+        {
+          "name": "线报",
+          "pic": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01lNrpEo2JJi21EW0jF_!!2053469401.png",
+          "url": "https://coupon.aikanll.com/?tmp=rt_xb&code=XgfNAG&f=web&demo_type=31",
+          "type": "app://shopWeb"
+        },
+        {
+          "name": "逛超市",
+          "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081206_73798",
+          "url": "20150318020004284",
+          "type": "api://taobaohuodongid"
+        },
+        {
+          "name": "福利清单",
+          "pic": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01Fkfct12JJi0dfsEXn_!!2053469401.png",
+          "url": "https://coupon.aikanll.com/?tmp=gather_new&code=E0hop5&f=web&demo_type=32",
+          "type": "app://shopWeb"
+        },
+        {
+          "name": "天猫超市",
+          "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081348_392547",
+          "url": "https://coupon.aikanll.com/?tmp=maochao&code=cstwnx&f=web&demo_type=9",
+          "type": "app://shopWeb"
+        }
+      ]
+    },
+    {
+      "title": "影视",
+      "list": [
+        {
+          "name": "爱奇艺",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01VEgwOb2C4PZZTpZsn_!!913168420.png",
+          "url": "https://m.iqiyi.com/",
+          "type": "app://x5WebParse"
+        },
+        {
+          "name": "腾讯视频",
+          "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01Tj0Xkv2C4PZVNK1Z4_!!913168420.png",
+          "url": "https://m.v.qq.com/index.html",
+          "type": "app://x5WebParse"
+        },
+        {
+          "name": "优酷视频",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01AReH5K2C4PZaDNenV_!!913168420.png",
+          "url": "https://www.youku.com/",
+          "type": "app://x5WebParse"
+        },
+        {
+          "name": "芒果TV",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kRpcdw2C4PZPrrNAv_!!913168420.png",
+          "url": "https://m.mgtv.com/channel/home",
+          "type": "app://x5WebParse"
+        },
+        {
+          "name": "哔哩哔哩",
+          "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01Y2Kpb02C4PZOOOaxK_!!913168420.png",
+          "url": "https://m.bilibili.com/",
+          "type": "app://x5WebParse"
+        },
+        {
+          "name": "m1905",
+          "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01cZfNSo2C4PZaDPw5w_!!913168420.png",
+          "url": "https://m.1905.com/",
+          "type": "app://x5WebParse"
+        }
+      ]
+    },
+    {
+      "title": "直播",
+      "list": [
+        {
+          "name": "央视",
+          "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN016MnVLV2C4PZQRzmnB_!!913168420.png",
+          "url": "https://tv.cctv.com/live/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "企鹅体育",
+          "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01ugSCtL2C4PZT5LHj5_!!913168420.png",
+          "url": "https://live.qq.com/directory/all",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "虎牙",
+          "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01j397tW2C4PZPrrVTZ_!!913168420.png",
+          "url": "https://www.huya.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "斗鱼",
+          "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01tISPqb2C4PZJlI30n_!!913168420.png",
+          "url": "https://www.douyu.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "YY",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01dtwWiL2C4PZXrkCkS_!!913168420.png",
+          "url": "https://www.yy.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "哔哩哔哩",
+          "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01Y2Kpb02C4PZOOOaxK_!!913168420.png",
+          "url": "https://live.bilibili.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "网易CC",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01Ng4pLI2C4PZT5LxJd_!!913168420.png",
+          "url": "https://cc.163.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "企鹅电竞",
+          "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01ugSCtL2C4PZT5LHj5_!!913168420.png",
+          "url": "https://egame.qq.com/",
+          "type": "app://customWeb"
+        }
+      ]
+    },
+    {
+      "title": "搜索",
+      "list": [
+        {
+          "name": "百度",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01rgSnol2C4PZWpj0zL_!!913168420.png",
+          "url": "https://www.baidu.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "谷歌",
+          "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01Nf90zc2C4PZPrsJNM_!!913168420.png",
+          "url": "https://www.google.com",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "搜狗",
+          "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01WuXEf42C4PZWLAHKI_!!913168420.png",
+          "url": "https://www.sogou.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "必应",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01i29exX2C4PZYb9Lxs_!!913168420.png",
+          "url": "https://cn.bing.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "magi",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01RZQ76a2C4PZWLF2dU_!!913168420.png",
+          "url": "https://magi.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "yandex",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01Y4he3D2C4PZWLAwuR_!!913168420.png",
+          "url": "https://yandex.com/",
+          "type": "app://customWeb"
+        }
+      ]
+    }
+  ]
+}
