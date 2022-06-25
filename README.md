@@ -46,6 +46,7 @@
 * TV'Box｜APP
   + [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)
 * 原猫影视TV 接口设置 可无痛转移TVBox
+* 原猫影视TV 本地接口懒人包设置 可无痛转移TVBox
 
 ![TV'Box](https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/pic/20220623.png "TV'Box")
 
