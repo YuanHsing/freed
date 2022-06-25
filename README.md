@@ -45,6 +45,7 @@
 ## 2. [TV'Box](https://github.com/YuanHsing/freed/tree/master/TVBox)
 * TV'Box｜APP
   + [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)
+* 原猫影视TV 接口设置 可无痛转移TVBox
 
 ![TV'Box](https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/pic/20220623.png "TV'Box")
 
