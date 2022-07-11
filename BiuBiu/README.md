@@ -3,7 +3,10 @@
 * [播放器改版完成，测试版来啦！](https://mp.weixin.qq.com/s/Y3M04jdWjGSfnNzXuj2NQw)
 * [讲一下自定义新加字段的使用](https://mp.weixin.qq.com/s/413rc8TNDCGcaD_AZQR6DQ)
 * [调试助手103优化版更新，增强电视盒子兼容性](https://mp.weixin.qq.com/s/Colp6jt5VlABZHYjM4CgOg)
+* 全局接口设置 --> https://freed.yuanhsing.cf/BiuBiu/bb测试版.txt
+
 ---
+
 # BiuBiu影院
 ## 接口简易设定流程：
 * 自行找到主程式并安装: BiuBiu影院999.apk
