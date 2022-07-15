@@ -23,6 +23,7 @@
   + 小程序源合集更新：
     + [4月合集](https://mp.weixin.qq.com/s/Uz3OIr8uJWr2xlxz8W8VkA) / [5月合集](https://mp.weixin.qq.com/s/OSHRfwN8r_n0MvD55_CuaQ)
     + [6月合集1](https://netcut.cn/p/3336ad000418d685) / [6月合集2](https://netcut.cn/p/6bcc61972fba9497)
+    + [7月合集，推荐尽快导入](https://mp.weixin.qq.com/s/bKCvqXwQRQM7PmrV9JJ6Dg)
   + [道长仓库更新](https://mp.weixin.qq.com/s/GpXbsUk0MeBcFJJkVohD4g)
   + [内容众多的两个规则推荐](https://mp.weixin.qq.com/s/vf9qpAcBf83EHzKPoG6s8w)
   * [两个优质规则分享](https://mp.weixin.qq.com/s/qAxdMPleTw3oJZE1ckRa1Q)
