@@ -1,4 +1,8 @@
 # 提醒：
++ "推送" 支持 magnet开头的"磁力链接"
+	+ 已知问题：电脑模拟器 "推送" 会闪退
+	+ 解决方法1：下载其他大佬打包好解决闪退问题的APK
+	+ 解决方法2：fork官方TVBoxOSC --> TVBoxOSC/app/proguard-rules.pro --> 新增设定 --> -keep class com.xunlei.downloadlib.** {*;} --> 重新打包签名
 + MaooXB2：适用 XBiubiuLA4.jar (XBiubiu 副标题、详情页++)
 + [MaooXB(已打包,点击下载)](https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB.zip)：适用XBiubiuLA3.jar 及 其他各大佬的JAR
 ---

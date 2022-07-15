@@ -1,10 +1,11 @@
 # BiuBiu影院 测试版
 * 公众号：一个小菜花
+* 全局接口设置 --> https://freed.yuanhsing.cf/BiuBiu/bb测试版.txt
 * [播放器改版完成，测试版来啦！](https://mp.weixin.qq.com/s/Y3M04jdWjGSfnNzXuj2NQw)
 * [讲一下自定义新加字段的使用](https://mp.weixin.qq.com/s/413rc8TNDCGcaD_AZQR6DQ)
 * [调试助手103优化版更新，增强电视盒子兼容性](https://mp.weixin.qq.com/s/Colp6jt5VlABZHYjM4CgOg)
 * [新播放器搞个测试模块，先测试下速度如何。](https://mp.weixin.qq.com/s/NiUDAVlOPttZTTq-4NLnDg)
-* 全局接口设置 --> https://freed.yuanhsing.cf/BiuBiu/bb测试版.txt
+* [新demo加上远程输入，电视上可以方便测试了](https://mp.weixin.qq.com/s/AeGZ5ojMMkpk25M0IEZ2gA)
 
 ---
 
