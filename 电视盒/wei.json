@@ -5,7 +5,7 @@
 {
 ## spider
 //"spider":"https://agit.ai/xiaowei/freedwei/raw/branch/master/TVBox/MaooXB2/XBiubiuLA3.jar",
-"spider":"https://agit.ai/xiaowei/freedwei/raw/branch/master/TVBox/MaooXB2/qiaoji.jar",
+"spider":"https://agit.ai/xiaowei/freedwei/raw/branch/master/TVBox/MaooXB2/XBiubiuLA4.jar",
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2FnaXQuYWkveGlhb3dlaS9mcmVlZHdlaS9yYXcvYnJhbmNoL21hc3Rlci90di9saXZlLnR4dA=="]}]}],
