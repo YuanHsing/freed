@@ -1,0 +1,11 @@
+
+{
+  "data": {
+    "webPlayUrl": "https://jx.444662.cn/m3u8/?url=",
+    "qqGroupKey": "mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26jump_from%3Dwebapi%26k%3DPdWWZuyfTqdchuTY0Wc_lp89qDCBjJQO",
+    "shareUrl":"https://www.lanzoui.com/b0aqen5i",
+    "webViewDefaultPC": true,
+    "userAgentPC": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4535.3 Safari/537.36",
+    "userAgentMobile": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36"
+  }
+}

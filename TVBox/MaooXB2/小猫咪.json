@@ -1,0 +1,70 @@
+// 改版修正
+{
+  "name": "小猫咪",
+  "url": "https://xmaomi.net",
+  "User": "空",
+  "shouye": "1",
+
+  "fenlei": "电影$/vodshow/1--------#国产剧$/vodshow/2-中国大陆-------#台剧$/vodshow/2-中国台湾-------#美剧$/vodshow/2-美国-------#港剧$/vodshow/2-中国香港-------#韩剧$/vodshow/2-韩国-------#综艺$/vodshow/3--------#动漫$/vodshow/4--------",
+  "houzhui": "---.html",
+
+  "shifouercijiequ": "0",
+  "jiequqian": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "hl-lazy\"",
+  "jiequshuzuhou": "</a>",
+  "tupianqian": "data-original=\"",
+  "tupianhou": "\"",
+  "biaotiqian": "title=\"",
+  "biaotihou": "\"",
+  "lianjieqian": "href=\"",
+  "lianjiehou": "\"",
+
+  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
+  "fubiaotiqian": "remarks\">",
+  "fubiaotihou": "</span",
+
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/vodplay/", //搜索页影片跳转详情页的中间标识链接部分
+  "ssmoshi": "0",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "pic",
+  "jsname": "name",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "id=\"hl-plays-list",
+  "bfjiequshuzuhou": "<div",
+
+  "zhuangtaiqian": "更新：</em>",
+  "zhuangtaihou": "</li>",
+  "daoyanqian": "导演：</em>",
+  "daoyanhou": "</li>",
+  "zhuyanqian": "主演：</em>",
+  "zhuyanhou": "</li>",
+  "juqingqian": "简介：</em>",
+  "juqinghou": "</li>",
+
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "</li>",
+  "bfbiaotiqian": ">",
+  "bfbiaotihou": "</a>",
+  "bflianjieqian": "href=\"",
+  "bflianjiehou": "\""
+}

@@ -1,0 +1,95 @@
+{
+"name": "填写网站名称",
+"url": "http://www.xxx.com",
+
+//访问请求头，如果不需要自定义请求ua的话，不填写或者直接删除这个字段就可以了。
+// 电脑ua
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+// 手机ua
+"ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+
+//播放请求头
+"User": "空",
+
+//直接播放截取的播放页链接网址，0表示：否，1表示：是
+"直接播放": "0",
+
+//分类页是否使用列表方式显示，0表示：否，1表示：是
+"列表显示": "0",
+
+//列表图片是否横图显示，0表示：否，1表示：是
+"横图显示": "0",
+
+//影视分类和翻页后缀部分，如果分类类型填空，例如：测试$空，则直接取url字段网站的源码。
+"fenlei": "电视剧$/vodshow/2--------#电影$/vodshow/1--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#番剧$/vodshow/26--------",
+"houzhui": "---.html",
+"qishiye": "1",//可以自定义列表翻页起始页的页数，如果填上一个空字，则不使用起始页数，直接获取链接的数据。
+
+//影视列表展示部分
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"myui-vodlist__box\"",
+"jiequshuzuhou": "</span>",
+"tupianqian": "original=\"",//如果tupianqian字段写网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
+"tupianhou": "\"",
+"tupianqianzhui": "空",//可以自己定义截取图片的前缀
+"biaotiqian": "title=\"",
+"biaotihou": "\"",
+"lianjieqian": "href=\"",
+"lianjiehou": "\"",
+"ljqianzhui": "空", //可以自己定义截取链接的前缀
+
+//副标题不需要的话，就不填写或者删除副标题2个字段也可以。
+"fubiaotiqian": "",
+"fubiaotihou": "",
+
+//搜索部分
+"jspic": "pic",
+"jsname": "name",
+"jsid": "id",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/voddetail/",
+"ssmoshi": "0",
+"sousuoshifouercijiequ": "0",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"sstupianqianzhui": "空",//可以自己定义截取图片的前缀
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"ssljqianzhui": "空", //可以自己定义截取链接的前缀
+
+//播放页部分
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "id=\"playlist",
+"bfjiequshuzuhou": "</ul>",
+
+"zhuangtaiqian": "class=\"otherbox\">",
+"zhuangtaihou": "</p>",
+"daoyanqian": "导演：</span>",
+"daoyanhou": "</p>",
+"zhuyanqian": "主演：</span>",
+"zhuyanhou": "</p>",
+"juqingqian": "<span class=\"data\"",
+"juqinghou": "</span>",
+
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\"",
+"bflianjiehou": "\"",
+"bfqianzhui": "" //可以自己定义截取播放链接的前缀，不需要的话不填写，或者删除这个字段即可。
+}
